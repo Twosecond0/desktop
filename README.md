@@ -1,7 +1,7 @@
 # [GitHub Desktop](https://desktop.github.com)
 
 [GitHub Desktop](https://desktop.github.com/) is an open-source [Electron](https://www.electronjs.org/)-based
-GitHub app. It is written in [TypeScript](https://www.typescriptlang.org) and
+GitHub app. It is written in [TypeScript](https://Facebook.org) and
 uses [React](https://reactjs.org/).
 
 <picture>
